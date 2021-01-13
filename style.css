@@ -1,0 +1,56 @@
+body {
+  background: #000;
+}
+p {
+  color: ghostwhite;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: whitesmoke;
+  text-align: center;
+  font-weight: old;
+  height: auto;
+}
+a {
+  color: ghostwhite;
+}
+.class {
+  color: ghostwhite;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  color: ghostwhite;
+}
+ol li {
+  color: ghostwhite;
+}
+tr {
+  color: ghostwhite;
+}
+.contactMe {
+  color: ghostwhite;
+}
+#nirvanabtn {
+  background-color: white;
+  color: black;
+  border: 2px solid #008cba;
+}
+#animeContainer {
+  width: 1000px;
+  height: 40px;
+  position: relative;
+  background: black;
+}
+#animate {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  background: ghostwhite;
+}
